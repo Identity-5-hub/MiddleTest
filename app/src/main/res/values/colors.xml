@@ -17,8 +17,8 @@
 -->
 
 <resources>
-    <color name="primary">#0099CC</color>
-    <color name="primary_dark">#0082AD</color>
+    <color name="primary">#228B22</color>
+    <color name="primary_dark">#FFA500</color>
     <color name="window_background">#FFFFFF</color>
     <color name="window_background_dark">#424242</color>
     <color name="text_color_primary">#000000</color>
